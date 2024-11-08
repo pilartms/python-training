@@ -1,6 +1,6 @@
 # Introduction to Python - BBC course
 
-Scripts written as homework for the Introduction to Python course delivered for the BBC by Dr. John Hunt (November 2023).
+Assignments for the Introduction to Python course delivered for the BBC by Dr. John Hunt (November 2023).
 
 ## Scripts
 
